@@ -1,4 +1,3 @@
-```markdown
 # EdgeBeat
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/EdgeBeat/EdgeBeat/actions) 
