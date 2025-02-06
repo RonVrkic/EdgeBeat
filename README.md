@@ -26,7 +26,7 @@ EdgeBeat is built with a modern stack that combines blockchain technology with e
 
 - **Blockchain & Smart Contracts:** At its core, EdgeBeat uses an **Ethereum-compatible** blockchain layer. Smart contracts (written in Solidity) run on this layer to govern the network — from verifying node contributions to handling payments for computing tasks.
 
-- **Core Platform:** The backbone services of EdgeBeat are implemented in efficient, scalable languages (such as **Go** **Rust** **Python** and **TypeScript**). Go is used for high-performance network services and the edge node agent, while TypeScript powers the management APIs and tooling. This combination provides both speed and developer-friendly extensibility.
+- **Core Platform:** The backbone services of EdgeBeat are implemented in efficient, scalable languages (such as **Go** **Rust** **Python** and **TypeScript**). Go is used for high-performance network services and the edge node agent, while Rust powers the management APIs and tooling. This combination provides both speed and developer-friendly extensibility.
 
 - **Edge Runtime Environment:** EdgeBeat leverages containerization to run workloads on edge nodes. It supports **Docker** containers for packaging edge applications, ensuring a consistent runtime across diverse devices and operating systems. In future releases, support for **WebAssembly (WASM)** is planned, allowing lightweight and safe execution of code on heterogeneous hardware.
 
