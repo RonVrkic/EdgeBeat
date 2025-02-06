@@ -50,8 +50,8 @@ edgebeat/
 ### Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/edgebeat/edgebeat-space.git
-   cd edgebeat-space
+   git clone https://github.com/edgebeat/edgebeat.git
+   cd edgebeat
    ```
 2. **Provision Infrastructure:**
    - Navigate to the `infra/terraform` directory and initialize Terraform:
