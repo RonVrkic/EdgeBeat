@@ -65,6 +65,7 @@ Wenn du glaubst, dass Sicherheit offen, transparent und gemeinschaftlich entwick
 
 
 
+
 # EdgeBeat - Technische Dokumentation
 
 ## Einführung
