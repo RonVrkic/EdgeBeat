@@ -4,6 +4,67 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE) 
 [![GitHub Stars](https://img.shields.io/github/stars/EdgeBeat/EdgeBeat.svg?style=social)](https://github.com/EdgeBeat/EdgeBeat/stargazers)
 
+**EdgeBeat Manifesto: Die Notwendigkeit von Open Source und Apache 2.0**
+
+
+## **Präambel: Warum EdgeBeat Open Source sein muss**
+
+EdgeBeat ist nicht nur eine technologische Plattform, sondern eine grundlegende Neudefinition, wie Edge-Computing, KI und Blockchain zusammenkommen, um eine **vertrauenswürdige, sichere und dezentrale IT-Umgebung** zu schaffen. Unser Ziel ist es, eine cloud-native, aber anbieterunabhängige Architektur zu etablieren, die offene Standards, Transparenz und Kollaboration fördert.
+
+
+### **Warum Open Source?**
+
+1. **Vertrauen durch Transparenz:** Sicherheit ist nur dann glaubwürdig, wenn sie für alle nachvollziehbar ist. Proprietäre Software erfordert Vertrauen in den Anbieter – Open Source erlaubt es allen, den Code zu prüfen, Schwachstellen zu analysieren und Sicherheitslücken schnell zu identifizieren und zu schließen.
+
+2. **Nachhaltigkeit und Langfristigkeit:** Eine offene Architektur gewährleistet, dass EdgeBeat sich stetig weiterentwickeln kann, unabhängig von wirtschaftlichen oder strategischen Interessen einzelner Unternehmen. Die Open-Source-Community sichert die Fortführung des Projekts und sorgt dafür, dass Innovationen gemeinschaftlich genutzt und verbessert werden.
+
+3. **Interoperabilität und Agnostik:** EdgeBeat setzt auf offene Standards und modulare Architektur, um sich nahtlos in bestehende Infrastrukturen und Technologien integrieren zu lassen – ohne Abhängigkeiten zu proprietären Anbietern oder Technologien.
+
+4. **Förderung globaler Zusammenarbeit:** Sicherheit ist eine globale Herausforderung. Durch Open Source kann EdgeBeat von den besten Experten weltweit verbessert werden, statt nur in einem abgeschlossenen Unternehmen weiterentwickelt zu werden.
+
+
+### **Warum Apache 2.0 Lizenz?**
+
+Die **Apache 2.0 Lizenz** stellt sicher, dass EdgeBeat sowohl frei nutzbar als auch kommerziell einsetzbar bleibt, ohne die Möglichkeit der Weiterentwicklung und der Anpassung durch die Community einzuschränken. Sie garantiert:
+
+- **Freie Nutzung:** Jeder kann EdgeBeat verwenden, modifizieren und weitergeben, ohne Lizenzgebühren zahlen zu müssen.
+
+- **Kommerzielle Nutzbarkeit:** Unternehmen können EdgeBeat nutzen und weiterentwickeln, ohne dass Einschränkungen in der Produktivsetzung entstehen.
+
+- **Patentschutz:** Die Apache 2.0 Lizenz enthält ausdrücklichen Schutz gegen Patentklagen, wodurch sichergestellt wird, dass niemand die Technologie durch Patente blockieren oder einschränken kann.
+
+
+## **EdgeBeat: Der erste Schritt einer neuen offenen Infrastruktur**
+
+EdgeBeat ist mehr als nur eine dezentrale Sicherheitsplattform – es ist die Grundlage für eine gesamte **cloud-native, agnostische und offene IT-Architektur**. Wir betrachten EdgeBeat als den ersten Baustein eines umfassenden öffentlichen Infrastruktur-Stacks, der:
+
+- **Edge-Sicherheit neu definiert:** Durch KI-Agenten, Zero-Trust-Security und eine Blockchain-gesteuerte Auditierung ermöglicht EdgeBeat eine proaktive und autonome Sicherheitsarchitektur, die Bedrohungen nicht nur erkennt, sondern in Echtzeit abwehrt.
+
+- **Containerisierte, skalierbare Workloads auf jedem Edge-Gerät ermöglicht:** Mit K3s als leichtgewichtiger Kubernetes-Variante kann EdgeBeat **nahtlos auf unterschiedlichster Hardware betrieben** werden, von Rechenzentren bis zu kleinsten IoT-Geräten.
+
+- **Blockchain-Technologie in den Sicherheitsstack integriert:** Durch manipulationssichere Protokollierung und Smart Contracts werden Bedrohungen erkannt und kooperativ zwischen Edge-Knoten bekämpft, ohne zentralisierte Kontrollpunkte.
+
+### **Ein neues Paradigma für Sicherheit und Infrastruktur**
+
+Unser langfristiges Ziel ist es, EdgeBeat als Teil eines umfassenden, offenen Infrastruktur-Stacks zu etablieren, der:
+
+- **Cloud-agnostisch und plattformunabhängig** ist
+
+- **Offene Standards fördert** und proprietäre Lock-ins vermeidet
+
+- **Sicherheit, Skalierbarkeit und Nachhaltigkeit** vereint
+
+- **Interoperabel mit bestehenden und kommenden Technologien** bleibt
+
+Dies ist erst der Anfang. Wir laden alle Entwickler, Forscher, Unternehmen und Regierungen ein, sich an der Weiterentwicklung zu beteiligen, um eine **wirklich offene, sichere und dezentralisierte IT-Zukunft** zu gestalten.
+
+
+### **Schließe dich EdgeBeat an!**
+
+Wenn du glaubst, dass Sicherheit offen, transparent und gemeinschaftlich entwickelt werden muss, dann ist EdgeBeat dein Projekt. Werde Teil der Community, trage Code, Ideen oder Sicherheitsforschung bei und hilf mit, eine **neue Generation von Open-Source-Sicherheitssystemen** zu schaffen. **EdgeBeat ist Open Source, weil Sicherheit keine Blackbox sein darf!**
+
+
+
 # EdgeBeat - Technische Dokumentation
 
 ## Einführung
